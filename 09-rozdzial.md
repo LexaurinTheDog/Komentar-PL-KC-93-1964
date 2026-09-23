@@ -277,12 +277,10 @@ Przepis reguluje zasady zwrotu rzeczy oddanej na przechowanie, w tym uprawnienia
 **Brzmienie przepisu:**
 
 > Art. 845. Jeżeli z przepisów szczególnych albo z umowy lub okoliczności wynika, że przechowawca może rozporządzać oddanymi na przechowanie pieniędzmi lub innymi rzeczami oznaczonymi tylko co do gatunku, stosuje się odpowiednio przepisy o pożyczce (depozyt nieprawidłowy). Czas i miejsce zwrotu określają przepisy o przechowaniu.
->
-> Odpowiedzialność, prawo zastawu i przedawnienie roszczeń utrzymujących hotele i podobne zakłady
 
 Przepis reguluje instytucję tzw. depozytu nieprawidłowego – szczególnej postaci przechowania rzeczy oznaczonych co do gatunku (w szczególności pieniędzy), w której przechowawca uzyskuje uprawnienie do rozporządzania powierzonymi mu wartościami. Jeżeli z przepisów szczególnych, z umowy lub z okoliczności wynika, że przechowawca może rozporządzać oddanymi mu pieniędzmi lub innymi rzeczami zamiennymi, do takiego stosunku stosuje się odpowiednio przepisy o pożyczce (art. 720 i n.) – co uzasadnione jest tym, że przechowawca nie zwraca tych samych egzemplarzy rzeczy (co byłoby niemożliwe przy rozporządzeniu nimi), lecz taką samą ilość rzeczy tego samego gatunku i jakości, podobnie jak biorący pożyczkę. Przepis zastrzega jednak, że mimo zastosowania konstrukcji pożyczki co do treści zobowiązania, czas i miejsce zwrotu określają nadal przepisy o przechowaniu (w tym art. 844), co pozwala zachować funkcję ochronną charakterystyczną dla przechowania (możliwość żądania zwrotu w każdym czasie) mimo przesunięcia własności rzeczy na przechowawcę.
 
-#### TYTUŁ XXIX
+#### TYTUŁ XXIX — Odpowiedzialność, prawo zastawu i przedawnienie roszczeń utrzymujących hotele i podobne zakłady
 
 ### Art. 846
 

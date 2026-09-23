@@ -980,9 +980,7 @@ Przepis otwiera rozbudowaną regulację dotyczącą odpłatności pożyczek pien
 
 **Brzmienie przepisu:**
 
-> Art. 720². § 1. Jeżeli przepisy szczególne nie stanowią inaczej, w umowie pożyczki pieniężnej zawieranej z osobą fizyczną i niezwiązanej bezpośrednio z działalnością gospodarczą lub zawodową tej osoby łączna wysokość pozaodsetkowych kosztów nie może przekraczać maksymalnej wysokości pozaodsetkowych kosztów określonej wzorem:
->
-> w którym poszczególne symbole oznaczają: MPK – maksymalną wysokość pozaodsetkowych kosztów, K – całkowitą kwotę pożyczki, rozumianą jako suma wszystkich środków pieniężnych nieobejmujących współfinansowanych kosztów pożyczki, które dający pożyczkę wydaje biorącemu pożyczkę na podstawie umowy, n – okres spłaty wyrażony w dniach, licząc od dnia wydania przedmiotu pożyczki, R – liczbę dni w roku.
+> Art. 720². § 1. Jeżeli przepisy szczególne nie stanowią inaczej, w umowie pożyczki pieniężnej zawieranej z osobą fizyczną i niezwiązanej bezpośrednio z działalnością gospodarczą lub zawodową tej osoby łączna wysokość pozaodsetkowych kosztów nie może przekraczać maksymalnej wysokości pozaodsetkowych kosztów określonej wzorem: MPK = K × n/R × 20 % w którym poszczególne symbole oznaczają: MPK – maksymalną wysokość pozaodsetkowych kosztów, K – całkowitą kwotę pożyczki, rozumianą jako suma wszystkich środków pieniężnych nieobejmujących współfinansowanych kosztów pożyczki, które dający pożyczkę wydaje biorącemu pożyczkę na podstawie umowy, n – okres spłaty wyrażony w dniach, licząc od dnia wydania przedmiotu pożyczki, R – liczbę dni w roku.
 >
 > § 2. Pozaodsetkowe koszty, o których mowa w § 1, w całym okresie spłaty pożyczki nie mogą być wyższe od 25 % całkowitej kwoty pożyczki.
 >

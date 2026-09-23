@@ -393,12 +393,10 @@ Przepis ustanawia szczególny reżim dziedziczenia dla Skarbu Państwa i gminy j
 > Art. 1024. § 1. Jeżeli spadkobierca odrzucił spadek z pokrzywdzeniem wierzycieli, każdy z wierzycieli, którego wierzytelność istniała w chwili odrzucenia spadku, może żądać, ażeby odrzucenie spadku zostało uznane za bezskuteczne w stosunku do niego według przepisów o ochronie wierzycieli w razie niewypłacalności dłużnika.
 >
 > § 2. Uznania odrzucenia spadku za bezskuteczne można żądać w ciągu sześciu miesięcy od chwili powzięcia wiadomości o odrzuceniu spadku, lecz niepóźniej niż przed upływem trzech lat od odrzucenia spadku.
->
-> Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia
 
 Przepis chroni wierzycieli spadkobiercy przed pokrzywdzeniem wskutek odrzucenia przez niego spadku – konstrukcja zbliżona do skargi pauliańskiej. § 1 przyznaje każdemu wierzycielowi, którego wierzytelność istniała w chwili odrzucenia spadku, prawo żądania uznania odrzucenia spadku za bezskuteczne wobec niego, stosownie do przepisów o ochronie wierzycieli w razie niewypłacalności dłużnika – wierzyciel może zatem zaspokoić się z udziału spadkowego, jaki przypadłby dłużnikowi, gdyby spadku nie odrzucił, mimo że wobec innych podmiotów odrzucenie pozostaje skuteczne. § 2 wyznacza terminy dochodzenia tego roszczenia: sześć miesięcy od powzięcia wiadomości o odrzuceniu, nie później jednak niż trzy lata od samego odrzucenia spadku – terminy te mają charakter zawity i służą stabilizacji sytuacji prawnej pozostałych spadkobierców.
 
-#### TYTUŁ VI
+#### TYTUŁ VI — Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia i ochrona spadkobiercy
 
 ### Art. 1025
 
