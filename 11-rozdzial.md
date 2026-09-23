@@ -396,7 +396,7 @@ Przepis ustanawia szczególny reżim dziedziczenia dla Skarbu Państwa i gminy j
 
 Przepis chroni wierzycieli spadkobiercy przed pokrzywdzeniem wskutek odrzucenia przez niego spadku – konstrukcja zbliżona do skargi pauliańskiej. § 1 przyznaje każdemu wierzycielowi, którego wierzytelność istniała w chwili odrzucenia spadku, prawo żądania uznania odrzucenia spadku za bezskuteczne wobec niego, stosownie do przepisów o ochronie wierzycieli w razie niewypłacalności dłużnika – wierzyciel może zatem zaspokoić się z udziału spadkowego, jaki przypadłby dłużnikowi, gdyby spadku nie odrzucił, mimo że wobec innych podmiotów odrzucenie pozostaje skuteczne. § 2 wyznacza terminy dochodzenia tego roszczenia: sześć miesięcy od powzięcia wiadomości o odrzuceniu, nie później jednak niż trzy lata od samego odrzucenia spadku – terminy te mają charakter zawity i służą stabilizacji sytuacji prawnej pozostałych spadkobierców.
 
-#### TYTUŁ VI — Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia i ochrona spadkobiercy
+#### TYTUŁ VI — Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia — i ochrona spadkobiercy
 
 ### Art. 1025
 
@@ -820,11 +820,11 @@ Przepis otwiera tytuł X księgi czwartej, zawierający przepisy szczególne o d
 
 **Brzmienie przepisu:**
 
-> Art. 1059. Spadkobiercy dziedziczą z ustawy gospodarstwo rolne, jeżeli w chwili otwarcia spadku:
+> Art. 1059.⁽¹⁴⁾ Spadkobiercy dziedziczą z ustawy gospodarstwo rolne, jeżeli w chwili otwarcia spadku:
 >
 > 1) stale pracują bezpośrednio przy produkcji rolnej albo 2) mają przygotowanie zawodowe do prowadzenia produkcji rolnej, albo 3) są małoletni bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo 4) są trwale niezdolni do pracy.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 stycznia 2001 r. sygn. akt P. 4/99 (Dz. U. poz. 91).
+*Odnośnik w tekście jednolitym* 14) Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 stycznia 2001 r. sygn. akt P. 4/99 (Dz. U. poz. 91).
 
 Przepis określał szczególne przesłanki dziedziczenia gospodarstwa rolnego z ustawy, wymagając od spadkobiercy w chwili otwarcia spadku spełnienia jednego z czterech warunków: stałej pracy bezpośrednio przy produkcji rolnej (pkt 1), posiadania przygotowania zawodowego do prowadzenia produkcji rolnej (pkt 2), małoletniości albo pobierania nauki zawodu lub uczęszczania do szkół (pkt 3), lub trwałej niezdolności do pracy (pkt 4). Zgodnie z załączonym przypisem urzędowym przepis utracił moc z dniem 14 lutego 2001 r. w zakresie, w jakim odnosi się do spadków otwartych od tego dnia, na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 stycznia 2001 r., sygn. akt P. 4/99 (Dz. U. poz. 91), który uznał te szczególne warunki dziedziczenia gospodarstw rolnych za niezgodne z konstytucyjną zasadą równości. W konsekwencji do spadków otwartych po tej dacie gospodarstwa rolne dziedziczy się na zasadach ogólnych, bez konieczności spełniania warunków wymienionych w tym przepisie.
 
@@ -832,9 +832,9 @@ Przepis określał szczególne przesłanki dziedziczenia gospodarstwa rolnego z 
 
 **Brzmienie przepisu:**
 
-> Art. 1060. W granicach określonych w art. 931 § 2 wnuki spadkodawcy, które w chwili otwarcia spadku odpowiadają warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczą gospodarstwo rolne także wtedy, gdy ich ojciec lub matka nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059. Przepis ten stosuje się odpowiednio do dalszych zstępnych.
+> Art. 1060.⁽¹⁵⁾ W granicach określonych w art. 931 § 2 wnuki spadkodawcy, które w chwili otwarcia spadku odpowiadają warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczą gospodarstwo rolne także wtedy, gdy ich ojciec lub matka nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059. Przepis ten stosuje się odpowiednio do dalszych zstępnych.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
+*Odnośnik w tekście jednolitym* 15) Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
 
 Przepis rozszerzał krąg spadkobierców gospodarstwa rolnego o wnuki spadkodawcy spełniające warunki z art. 1059 pkt 1 i 2, dziedziczące w granicach określonych w art. 931 § 2 (podstawienie w miejsce zstępnego, który nie dożył otwarcia spadku lub został wyłączony od dziedziczenia), również wtedy, gdy ich rodzic nie mógł dziedziczyć gospodarstwa z braku warunków z art. 1059, z odpowiednim zastosowaniem tej zasady do dalszych zstępnych. Podobnie jak art. 1059, przepis ten utracił moc z dniem 14 lutego 2001 r. w odniesieniu do spadków otwartych od tej daty na podstawie tego samego wyroku Trybunału Konstytucyjnego, wobec czego obecnie dziedziczenie wnuków i dalszych zstępnych gospodarstwa rolnego następuje na zasadach ogólnych przewidzianych w art. 931.
 
@@ -850,11 +850,11 @@ Przepis został uchylony. Regulował on dawniej dziedziczenie gospodarstwa rolne
 
 **Brzmienie przepisu:**
 
-> Art. 1062. § 1. Rodzeństwo spadkodawcy, które w chwili otwarcia spadku odpowiada warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczy gospodarstwo rolne także wtedy, gdy zstępni spadkodawcy nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059 lub w art. 1060.
+> Art. 1062.⁽¹⁶⁾ § 1. Rodzeństwo spadkodawcy, które w chwili otwarcia spadku odpowiada warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczy gospodarstwo rolne także wtedy, gdy zstępni spadkodawcy nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059 lub w art. 1060.
 >
 > § 2. W granicach określonych w art. 934 dzieci rodzeństwa spadkodawcy, które w chwili otwarcia spadku odpowiadają warunkom przewidzianym w art. 1059 pkt 1 i 2, dziedziczą gospodarstwo rolne także wtedy, gdy ich ojciec lub matka nie mogą gospodarstwa dziedziczyć dla braku warunków przewidzianych w art. 1059 lub w § 1 niniejszego artykułu. Przepis ten stosuje się odpowiednio do dalszych zstępnych.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
+*Odnośnik w tekście jednolitym* 16) Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
 
 Przepis rozszerzał krąg spadkobierców gospodarstwa rolnego na dalszą kolejność dziedziczenia ustawowego. § 1 przewidywał dziedziczenie gospodarstwa rolnego przez rodzeństwo spadkodawcy spełniające warunki z art. 1059 pkt 1 i 2, gdy zstępni spadkodawcy nie mogli go dziedziczyć z braku warunków z art. 1059 lub 1060. § 2 rozszerzał tę zasadę na dzieci rodzeństwa spadkodawcy w granicach określonych w art. 934, z odpowiednim zastosowaniem do dalszych zstępnych. Zgodnie z załączonym przypisem urzędowym przepis utracił moc z dniem 14 lutego 2001 r. w zakresie odnoszącym się do spadków otwartych od tej daty na podstawie wyroku Trybunału Konstytucyjnego wskazanego przy art. 1059, wobec czego rodzeństwo i jego zstępni dziedziczą obecnie gospodarstwo rolne na zasadach ogólnych, bez odrębnych warunków rolniczych.
 
@@ -870,9 +870,9 @@ Przepis regulował sytuację, w której żaden z uprawnionych do dziedziczenia z
 
 **Brzmienie przepisu:**
 
-> Art. 1064. Rozporządzenie Rady Ministrów określi, jakie przygotowanie zawodowe uważa się za przygotowanie zawodowe do prowadzenia produkcji rolnej, a także wypadki, w których pobieranie nauki zawodu lub uczęszczanie do szkół uprawnia do dziedziczenia gospodarstwa rolnego, oraz zasady i tryb stwierdzania trwałej niezdolności do pracy.
+> Art. 1064.⁽¹⁷⁾ Rozporządzenie Rady Ministrów określi, jakie przygotowanie zawodowe uważa się za przygotowanie zawodowe do prowadzenia produkcji rolnej, a także wypadki, w których pobieranie nauki zawodu lub uczęszczanie do szkół uprawnia do dziedziczenia gospodarstwa rolnego, oraz zasady i tryb stwierdzania trwałej niezdolności do pracy.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
+*Odnośnik w tekście jednolitym* 17) Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
 
 Przepis zawierał delegację ustawową dla Rady Ministrów do określenia w drodze rozporządzenia, jakie przygotowanie zawodowe uważa się za przygotowanie do prowadzenia produkcji rolnej, w jakich wypadkach pobieranie nauki zawodu lub uczęszczanie do szkół uprawnia do dziedziczenia gospodarstwa rolnego, oraz zasad i trybu stwierdzania trwałej niezdolności do pracy na potrzeby przepisów tego tytułu. Zgodnie z przypisem urzędowym przepis utracił moc z dniem 14 lutego 2001 r. w zakresie odnoszącym się do spadków otwartych od tej daty, na podstawie tego samego wyroku Trybunału Konstytucyjnego, który zdezaktualizował materialnoprawną podstawę do wydania takiego rozporządzenia, ponieważ warunki rolnicze, które miało ono precyzować, przestały mieć zastosowanie do nowo otwieranych spadków.
 
@@ -1066,7 +1066,7 @@ Przepis rozciąga odpowiednie stosowanie przepisów tytułu X (o szczególnych z
 
 **Brzmienie przepisu:**
 
-> Art. 1087. § 1. Należący do spadku wkład gruntowy w rolniczej spółdzielni produkcyjnej dziedziczą ci spośród spadkobierców, którzy w chwili otwarcia spadku:
+> Art. 1087.⁽¹⁸⁾ § 1. Należący do spadku wkład gruntowy w rolniczej spółdzielni produkcyjnej dziedziczą ci spośród spadkobierców, którzy w chwili otwarcia spadku:
 >
 > 1) są członkami tej spółdzielni albo 2) bądź są małoletni, bądź też pobierają naukę zawodu lub uczęszczają do szkół, albo 3) są trwale niezdolni do pracy.
 >
@@ -1074,7 +1074,7 @@ Przepis rozciąga odpowiednie stosowanie przepisów tytułu X (o szczególnych z
 >
 > § 3. Przepisy paragrafów poprzedzających dotyczą również działki przyzagrodowej i siedliskowej, jeżeli należą one do spadku.
 
-*Odnośnik w tekście jednolitym:* Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
+*Odnośnik w tekście jednolitym* 18) Utracił moc z dniem 14 lutego 2001 r. w zakresie, w którym odnosi się do spadków otwartych od dnia 14 lutego 2001 r., na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 14.
 
 Przepis określał szczególne zasady dziedziczenia wkładu gruntowego w rolniczej spółdzielni produkcyjnej. § 1 wskazywał krąg spadkobierców dziedziczących taki wkład – osoby będące w chwili otwarcia spadku członkami spółdzielni (pkt 1), małoletnie albo pobierające naukę zawodu lub uczęszczające do szkół (pkt 2), lub trwale niezdolne do pracy (pkt 3). § 2 przewidywał dziedziczenie subsydiarne przez spadkobierców pracujących w gospodarstwie rolnym spółdzielni albo mających zostać jej członkami w ciągu sześciu miesięcy od otwarcia spadku, w braku spadkobierców określonych w § 1 pkt 1. § 3 rozciągał te zasady na działkę przyzagrodową i siedliskową, jeżeli należały do spadku. Zgodnie z przypisem urzędowym przepis utracił moc z dniem 14 lutego 2001 r. w zakresie odnoszącym się do spadków otwartych od tej daty, na podstawie tego samego wyroku Trybunału Konstytucyjnego, który zdezaktualizował analogiczne warunki szczególne przewidziane w art. 1059 i n. – od tej daty wkład gruntowy w rolniczej spółdzielni produkcyjnej dziedziczy się na zasadach ogólnych.
 

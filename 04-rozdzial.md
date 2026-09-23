@@ -490,11 +490,11 @@ Przepis reguluje szczególną sytuację kolizji wzorców umownych w obrocie mię
 
 > Art. 385⁵. § 1. Przepisy dotyczące konsumenta, zawarte w art. 385¹–385³, stosuje się do osoby fizycznej zawierającej umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie posiada ona dla niej charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej, udostępnionego na podstawie przepisów o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 >
-> § 1¹. Jeżeli z treści umowy, która ma być zawarta, nie wynika, czy posiada ona charakter zawodowy dla osoby fizycznej, o której mowa w § 1, osoba ta najpóźniej w chwili zawarcia umowy może złożyć oświadczenie, że umowa posiada dla niej charakter zawodowy albo że nie posiada takiego charakteru. Druga strona umowy nie może jednak uzależnić zawarcia umowy od złożenia takiego oświadczenia.
+> § 1¹.⁽⁴⁾ Jeżeli z treści umowy, która ma być zawarta, nie wynika, czy posiada ona charakter zawodowy dla osoby fizycznej, o której mowa w § 1, osoba ta najpóźniej w chwili zawarcia umowy może złożyć oświadczenie, że umowa posiada dla niej charakter zawodowy albo że nie posiada takiego charakteru. Druga strona umowy nie może jednak uzależnić zawarcia umowy od złożenia takiego oświadczenia.
 >
 > § 2. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 2 pkt 1 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), która weszła w życie z dniem 1 marca 2026 r.; wszedł w życie z dniem 27 listopada 2025 r.
+*Odnośnik w tekście jednolitym* 4) Dodany przez art. 2 pkt 1 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), która weszła w życie z dniem 1 marca 2026 r.; wszedł w życie z dniem 27 listopada 2025 r.
 
 Przepis rozszerza zakres ochrony przewidzianej dla konsumentów w art. 385¹–385³ k.c. na określoną kategorię osób fizycznych prowadzących działalność gospodarczą (tzw. przedsiębiorcę na prawach konsumenta, „przedsiębiorcę-konsumenta”). § 1 wskazuje przesłankę zastosowania tego rozszerzenia: umowa zawierana przez osobę fizyczną musi być bezpośrednio związana z jej działalnością gospodarczą, lecz z jej treści musi wynikać, że nie ma ona dla tej osoby charakteru zawodowego – ocena ta następuje w szczególności w odniesieniu do przedmiotu działalności gospodarczej ujawnionego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej. Instytucja ta odpowiada na potrzebę objęcia ochroną drobnych przedsiębiorców zawierających umowy niezwiązane z ich rzeczywistą specjalizacją zawodową (np. informatyk kupujący materiały budowlane do remontu lokalu), a więc znajdujących się w analogicznej do konsumenta sytuacji informacyjnej i negocjacyjnej słabości. § 1¹ przewiduje mechanizm oświadczenia – jeżeli z treści umowy nie wynika jednoznacznie jej charakter zawodowy dla danej osoby, może ona najpóźniej w chwili zawarcia umowy złożyć oświadczenie rozstrzygające tę kwestię, przy czym kontrahent nie może uzależniać zawarcia umowy od złożenia takiego oświadczenia, co chroni przedsiębiorcę-konsumenta przed wymuszaniem niekorzystnego dla niego oświadczenia jako warunku zawarcia umowy. § 2 został uchylony. Zgodnie z przypisem urzędowym do przepisu, jednostka § 1¹ została dodana ustawą z dnia 5 sierpnia 2025 r. (Dz. U. poz. 1172), przy czym termin jej wejścia w życie wskazany w przypisie wymaga odnotowania rozbieżności dat pomiędzy datą wejścia w życie całej nowelizującej ustawy a datą wejścia w życie tego konkretnego przepisu.
 
@@ -772,9 +772,9 @@ Przepis wprowadza szczególny reżim odpowiedzialności na zasadzie słuszności
 
 **Brzmienie przepisu:**
 
-> Art. 418. (utracił moc)
+> Art. 418. (utracił moc)⁽⁵⁾
 
-*Odnośnik w tekście jednolitym:* Z dniem 18 grudnia 2001 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 4 grudnia 2001 r. sygn. akt SK. 18/2000 (Dz. U. poz. 1638).
+*Odnośnik w tekście jednolitym* 5) Z dniem 18 grudnia 2001 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 4 grudnia 2001 r. sygn. akt SK. 18/2000 (Dz. U. poz. 1638).
 
 Przepis utracił moc obowiązującą z dniem 18 grudnia 2001 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 4 grudnia 2001 r., sygn. akt SK. 18/2000, który uznał go za niezgodny z Konstytucją w zakresie, w jakim uzależniał odpowiedzialność Skarbu Państwa za szkodę wyrządzoną działaniem funkcjonariusza publicznego przy wykonywaniu władzy publicznej od wykazania winy tego funkcjonariusza stwierdzonej wyrokiem karnym lub dyscyplinarnym. Materię odpowiedzialności za szkody wyrządzone przy wykonywaniu władzy publicznej reguluje obecnie samodzielnie art. 417 k.c.
 
@@ -1066,9 +1066,9 @@ Przepis reguluje roszczenia przysługujące osobom trzecim w razie śmierci posz
 
 **Brzmienie przepisu:**
 
-> Art. 446¹. Z chwilą urodzenia dziecko może żądać naprawienia szkód doznanych przed urodzeniem.
+> Art. 446¹.⁽⁶⁾ Z chwilą urodzenia dziecko może żądać naprawienia szkód doznanych przed urodzeniem.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie utraciło moc z dniem 23 grudnia 1997 r. na podstawie obwieszczenia Prezesa Trybunału Konstytucyjnego z dnia 18 grudnia 1997 r. o utracie mocy obowiązującej art. 1 pkt 2, art. 1 pkt 5, art. 2 pkt 2, art. 3 pkt 1 i art. 3 pkt 4 ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1040).
+*Odnośnik w tekście jednolitym* 6) Zdanie drugie utraciło moc z dniem 23 grudnia 1997 r. na podstawie obwieszczenia Prezesa Trybunału Konstytucyjnego z dnia 18 grudnia 1997 r. o utracie mocy obowiązującej art. 1 pkt 2, art. 1 pkt 5, art. 2 pkt 2, art. 3 pkt 1 i art. 3 pkt 4 ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1040).
 
 Przepis przyznaje dziecku, z chwilą urodzenia, roszczenie o naprawienie szkód doznanych przed urodzeniem (tzw. szkód prenatalnych) – jest to wyraz warunkowej ochrony dziecka poczętego (nasciturus), którego zdolność do bycia podmiotem tego roszczenia aktualizuje się dopiero z chwilą urodzenia się żywym. Roszczenie to obejmuje naprawienie szkód wyrządzonych działaniem lub zaniechaniem osoby trzeciej w okresie prenatalnym, mających wpływ na stan zdrowia dziecka po urodzeniu. Zgodnie z przypisem urzędowym do przepisu, jego zdanie drugie utraciło moc obowiązującą z dniem 23 grudnia 1997 r. na podstawie obwieszczenia Prezesa Trybunału Konstytucyjnego z dnia 18 grudnia 1997 r. o utracie mocy obowiązującej odpowiednich przepisów nowelizujących ustawę o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży, wobec czego obecnie obowiązujący tekst przepisu ogranicza się do zdania pierwszego.
 
